@@ -1,0 +1,94 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "price": 9.99,
+      "imageUrl": "https://example.com/book1.jpg",
+      "description": "A powerful story of racial injustice and coming-of-age in the Deep South",
+      "author": "Harper Lee",
+      "type": "Fiction"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "price": 11.99,
+      "imageUrl": "https://example.com/book2.jpg",
+      "description": "A dystopian novel depicting a totalitarian society and government surveillance",
+      "author": "George Orwell",
+      "type": "Fiction"
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "price": 8.49,
+      "imageUrl": "https://example.com/book3.jpg",
+      "description": "A novel exploring themes of decadence, idealism, and social upheaval",
+      "author": "F. Scott Fitzgerald",
+      "type": "Fiction"
+    },
+    {
+      "id": 4,
+      "title": "To the Lighthouse",
+      "price": 10.99,
+      "imageUrl": "https://example.com/book4.jpg",
+      "description": "A pioneering novel that explores the complex relationships and perceptions of characters",
+      "author": "Virginia Woolf",
+      "type": "Fiction"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "price": 7.99,
+      "imageUrl": "https://example.com/book5.jpg",
+      "description": "A classic novel depicting societal expectations, love, and marriage in Georgian England",
+      "author": "Jane Austen",
+      "type": "Fiction"
+    },
+    {
+      "id": 6,
+      "title": "The Catcher in the Rye",
+      "price": 9.49,
+      "imageUrl": "https://example.com/book6.jpg",
+      "description": "A coming-of-age story that explores themes of teenage angst, alienation, and identity",
+      "author": "J.D. Salinger",
+      "type": "Fiction"
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Kingdom",
+      "price": 12.99,
+      "imageUrl": "https://example.com/book7.jpg",
+      "description": "A young adult fantasy novel featuring sirens, pirates, and a deadly game of hearts",
+      "author": "Alexandra Christo",
+      "type": "Young Adult"
+    },
+    {
+      "id": 8,
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 14.99,
+      "imageUrl": "https://example.com/book8.jpg",
+      "description": "An exploration of the history and impact of Homo sapiens on the world",
+      "author": "Yuval Noah Harari",
+      "type": "Non-Fiction"
+    },
+    {
+      "id": 9,
+      "title": "Educated",
+      "price": 11.49,
+      "imageUrl": "https://example.com/book9.jpg",
+      "description": "A memoir of a woman's journey from a survivalist family to earning a Ph.D.",
+      "author": "Tara Westover",
+      "type": "Non-Fiction"
+    },
+    {
+      "id": 10,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "price": 10.99,
+      "imageUrl": "https://example.com/book10.jpg",
+      "description": "The first book in the beloved Harry Potter series, introducing the wizarding world",
+      "author": "J.K. Rowling",
+      "type": "Fantasy"
+    }
+  ]
+}
